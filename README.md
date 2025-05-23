@@ -15,7 +15,7 @@ I'm **Vinayak** — a passionate **Web Developer**, **Plugin Developer**, and **
 - 🌐 **Web Development**  
   Building responsive, interactive websites and web apps using modern technologies.
 
--🎨 **Thumbnail Maker**  
+- 🎨 **Thumbnail Maker**  
   Designing creative and attractive thumbnails for YouTube and other platforms.
 
 - 🕹️ **Minecraft Server Development**  
