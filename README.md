@@ -1,59 +1,132 @@
-# Hi, I'm Vinayak aka Vinnncy! 👋
-
-Welcome to my GitHub profile!
-
----
-
-## About Me
-
-I'm **Vinayak** — a passionate **Web Developer**, **Plugin Developer**, and **Minecraft Server Developer**. I love crafting creative solutions, building engaging websites, creating custom Minecraft plugins, and making eye-catching thumbnails to level up content presentation.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Digital%20Kingdom!&fontSize=35&fontAlign=50&fontColor=fff"/>
+</p>
 
 ---
 
-## 🚀 What I Do
+### **About Me**
 
-- 🌐 **Web Development**  
-  Building responsive, interactive websites and web apps using modern technologies.
-
-- 🎨 **Thumbnail Maker**  
-  Designing creative and attractive thumbnails for YouTube and other platforms.
-
-- 🕹️ **Minecraft Server Development**  
-  Setting up and managing Minecraft servers with custom features and smooth gameplay.
-  
-- 💻 **Software Development**  
-  Constantly learning and experimenting with new programming languages and frameworks.
+```yaml
+Username:       Fxvinayak
+Specialties:    
+  - Discord Bot & Server Developer
+  - Web Developer (Frontend)
+  - Minecraft Server Developer
+  - Python Developer
+```
 
 ---
 
-## 💻 Tech Stack
+### **🛠️ Tech Stack I Love**
 
-| Web Development         | Minecraft Development     | Other Tools & Skills        |
-|------------------------|--------------------------|-------------------------------|
-| HTML, CSS, JavaScript  | Java, Spigot API, Bukkit | Git, GitHub, VS Code          |
-| ReactJS, Tailwind CSS  | Plugin creation & config | REST APIs,                    |
-| Node.js, Express       | Server setup & management|                               |
-|                        |                          |                               |
+- **Languages:** `Python` `JavaScript` `Java` `Tlwind` `Node.js`
+- **Tools & Frameworks:** `Discord.py` `Firebase`  `Next.js`
+- **Hosting:** `Replit` `Vercel` `Render` `Firebase Hosting` `GitHub Pages`
 
 ---
 
-## 📫 Get in Touch
+### **⚡ Cool Projects**
 
-- **Discord:** vinaaaayak7  
-- **Email:** aboutvinayak07@gmail.com  
-- **YouTube:** [Vincy the boy] 
-- **Website/Portfolio:** 
-
----
-
-## 🌟 Fun Fact
-
-I also enjoy creating content around gaming and software development to share my journey with others!
+- **Cyclone mc web** – Landing Page for Cyclone MC
+- **AI Chatbot Engine** – No APIs, pure Python local LLM
+- **Movie Streaming App** – Built with Flutter & Appwrite
+- **Custom Minecraft Networks** – Game modes, plugins, and world management
+- **Python Mini Games** – Retro vibes with modern UI
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and projects. 🚀
+### **📈 GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSazid123&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=MrSazid123&theme=tokyonight" />
+</p>
 
 ---
 
-![Vinayak's GitHub stats]
+### **🧩 Fun Facts**
+
+- I turn caffeine into **code**.
+- I speak fluent **emoji** & **binary**.
+- My dreams are hosted on **GitHub Servers**.
+
+---
+
+### **Let’s Connect!**
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Digital%20Kingdom!&fontSize=35&fontAlign=50&fontColor=fff"/>
+</p>
+
+---
+
+### **About Me**
+
+```yaml
+Username:       ღ ŜÂJ̣̌ÍÐ ღ
+Specialties:    
+  - Discord Bot & Server Developer
+  - Python Game Developer
+  - Web Developer (Frontend + Backend)
+  - Minecraft Server Developer
+  - Android App Developer
+  - Python Developer
+```
+
+---
+
+### **🛠️ Tech Stack I Love**
+
+- **Languages:** `Python` `JavaScript` `Java` `Dart` `Node.js`
+- **Tools & Frameworks:** `Discord.py` `Firebase` `Flutter` `Sketchware` `Next.js` `TailwindCSS` `React` `Express`
+- **Backend & DB:** `Appwrite` `MongoDB` `SQLite` `MySQL` `REST API`
+- **Hosting:** `Replit` `Vercel` `Render` `Firebase Hosting` `GitHub Pages`
+
+---
+
+### **⚡ Cool Projects**
+
+- **Gambling Discord Bot** – LTC-based economy, games like Blackjack & Coin Flip
+- **AI Chatbot Engine** – No APIs, pure Python local LLM
+- **Movie Streaming App** – Built with Flutter & Appwrite
+- **Custom Minecraft Networks** – Game modes, plugins, and world management
+- **Python Mini Games** – Retro vibes with modern UI
+
+---
+
+### **📈 GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSazid123&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=MrSazid123&theme=tokyonight" />
+</p>
+
+---
+
+### **🧩 Fun Facts**
+
+- I turn caffeine into **code**.
+- I speak fluent **emoji** & **binary**.
+- My dreams are hosted on **GitHub Servers**.
+
+---
+
+### **Let’s Connect!**
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1190297941311766649)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinaaaaayak7)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSazid123)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
