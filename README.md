@@ -20,9 +20,6 @@ I'm **Vinayak** — a passionate **Web Developer**, **Plugin Developer**, and **
 
 - 🕹️ **Minecraft Server Development**  
   Setting up and managing Minecraft servers with custom features and smooth gameplay.
-
-- 🎨 **Thumbnail Maker**  
-  Designing creative and attractive thumbnails for YouTube and other platforms.
   
 - 💻 **Software Development**  
   Constantly learning and experimenting with new programming languages and frameworks.
