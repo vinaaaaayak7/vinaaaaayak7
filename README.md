@@ -7,7 +7,7 @@
 ### **About Me**
 
 ```yaml
-Username:       ღ ŜÂJ̣̌ÍÐ ღ
+Username:       vinaaaaayak7
 Specialties:    
   - Discord Bot & Server Developer
   - Python Game Developer
