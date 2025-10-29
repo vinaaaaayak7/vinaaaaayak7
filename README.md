@@ -8,12 +8,12 @@
 
 ```yaml
 Username:       vinaaaaayak7
-Specialties:    
+Specialties:
+  - Minecraft server dev 
   - Discord Bot & Server Developer
   - Python Game Developer
-  - Web Developer (Frontend + Backend)
+  - Web Developer (Frontend )
   - Minecraft Server Developer
-  - Android App Developer
   - Python Developer
 ```
 
@@ -21,7 +21,7 @@ Specialties:
 
 ### **🛠️ Tech Stack I Love**
 
-- **Languages:** `Python` `JavaScript` `Java` `Dart` `Node.js`
+- **Languages:** `HTML` `JS` `Java` `CS` `Node.js`
 - **Tools & Frameworks:** `Discord.py` `Firebase` `Flutter` `Sketchware` `Next.js` `TailwindCSS` `React` `Express`
 - **Backend & DB:** `Appwrite` `MongoDB` `SQLite` `MySQL` `REST API`
 - **Hosting:** `Replit` `Vercel` `Render` `Firebase Hosting` `GitHub Pages`
@@ -30,9 +30,7 @@ Specialties:
 
 ### **⚡ Cool Projects**
 
-- **Gambling Discord Bot** – LTC-based economy, games like Blackjack & Coin Flip
 - **AI Chatbot Engine** – No APIs, pure Python local LLM
-- **Movie Streaming App** – Built with Flutter & Appwrite
 - **Custom Minecraft Networks** – Game modes, plugins, and world management
 - **Python Mini Games** – Retro vibes with modern UI
 
@@ -42,7 +40,6 @@ Specialties:
 
 - I turn caffeine into **code**.
 - I speak fluent **emoji** & **binary**.
-- My dreams are hosted on **GitHub Servers**.
 
 ---
 
