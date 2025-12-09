@@ -13,7 +13,6 @@ Specialties:
   - Discord Bot & Server Developer
   - Python Game Developer
   - Web Developer (Frontend )
-  - Minecraft Server Developer
   - Python Developer
 ```
 
@@ -22,8 +21,8 @@ Specialties:
 ### **🛠️ Tech Stack I Love**
 
 - **Languages:** `HTML` `JS` `Java` `CS` `Node.js`
-- **Tools & Frameworks:** `Discord.py` `Firebase` `Flutter` `Sketchware` `Next.js` `TailwindCSS` `React` `Express`
-- **Backend & DB:** `Appwrite` `MongoDB` `SQLite` `MySQL` `REST API`
+- **Tools & Frameworks:** `Discord.py` `Firebase` `Flutter`  `Next.js` 
+- **Backend & DB:**  `MongoDB` `SQLite` `MySQL` 
 - **Hosting:** `Replit` `Vercel` `Render` `Firebase Hosting` `GitHub Pages`
 
 ---
