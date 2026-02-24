@@ -20,10 +20,10 @@ Specialties:
 
 ### **🛠️ Tech Stack I Love**
 
-- **Languages:** `HTML` `JS` `Java` `CS` `Node.js`
-- **Tools & Frameworks:** `Discord.py` `Firebase` `Flutter`  `Next.js` 
-- **Backend & DB:**  `MongoDB` `SQLite` `MySQL` 
-- **Hosting:** `Replit` `Vercel` `Render` `Firebase Hosting` `GitHub Pages`
+- **Languages:** `HTML` `Java` `CS` 
+- **Tools & Frameworks:** `Discord.py` 
+- **Backend & DB:**  `MongoDB` `MySQL` 
+- **Hosting:**  `Vercel`  `GitHub Pages`
 
 ---
 
